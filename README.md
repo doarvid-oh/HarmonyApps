@@ -22,3 +22,6 @@ https://gitee.com/scenario-samples/mapslocations
 ### 计算器demo
 实现了计算器计算功能的demo
 https://gitee.com/scenario-samples/calculator
+### AREngine
+本示例展示了AREngine提供的平面检测，运动跟踪，环境跟踪和命中检测能力。
+https://gitee.com/scenario-samples/arengine-ar-sample
